@@ -20,10 +20,11 @@ span{
 }
 .pricelist{
   
-  display: grid;
-  grid-template-columns:1fr 1fr 1fr;
-  
-  gap: 66px;
+  display: flex;
+ flex-wrap: wrap;
+ justify-content: space-around;
+  gap: 40px;
+
 }
 .ulcontainer{
  align-items:center;

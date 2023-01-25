@@ -11,7 +11,7 @@ return(
 function Pricecart(){
   let priceList = [{
     "cost":"free",
-    "rate":"0",
+    "rate":"0",  
     "user":"✓single user",
     "storage":"✓5GB storage",
     "public":"✓unlimited public project",
